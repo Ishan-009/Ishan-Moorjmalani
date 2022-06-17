@@ -4,19 +4,18 @@ My Github Profile
 <h2> I'm Rishika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  <img src="https://user-images.githubusercontent.com/58912231/163521435-2aec33dd-0e14-4d7d-9c2c-7aeb154dcb05.gif" align="right">
  
-- 🎓 I am a 3rd year Computer Science Engineering Student at Heritage Institute Of Technology
-- 💖 I love **javascript**
-- 💻 I am proficient in **Python - Flask,C++/C** and MERN Stack
-- 📈 I am an Upcoming Technology Analyst Intern [@MorganStanley](https://www.morganstanley.com/)
-- 📙 Proficient in DSA
-- 💻 Im currently learning **Angular** and **Jenkins**
-- 🐸 Fun Fact: In my free time I love playing with [flexbox froggy](https://flexboxfroggy.com/) and [Twilio Quest](https://www.twilio.com/quest)
+- 🎓 I am a first year MCA student at Manipal University.
+- 💖 I love **software development**
+- 💻 I am proficient in **Java - PHP and MERN Stack
+- 📙 Proficient in Development,DSA and computer fundamentals.
+- 💻 Im currently learning MERN stack.
+- 🐸 Fun Fact: In my free time, I love to play games, listen music ,read books and learn new things in different domains.
  
 **Languages**
 
   <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"></a> 
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="40px"  height="40px"></a>
- <a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
+ <a href="https://python.org/" title="JAVA"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="python" width="40px" height="40px"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="40px" height="40px"></a>
  <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
  <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
